@@ -1,0 +1,13 @@
+current directory: /Users/glaydsoncosta/projects/personal/shwp/dogzapp/dogzapp/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230920-33217-jiwta7.rb extconf.rb
+creating Makefile
+
+current directory: /Users/glaydsoncosta/projects/personal/shwp/dogzapp/dogzapp/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/glaydsoncosta/projects/personal/shwp/dogzapp/dogzapp/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/glaydsoncosta/projects/personal/shwp/dogzapp/dogzapp/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
