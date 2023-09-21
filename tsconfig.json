@@ -13,7 +13,7 @@
     "types": ["node", "webdriverio/sync", "@wdio/cucumber-framework", "expect-webdriverio"],
     "rootDir": "src",
     "outDir": "build",
-    "typeRoots": ["node_modules/@types", "./src/types"]
+    "typeRoots": ["node_modules/@types", "src/interfaces"]
   },
   "exclude": [
     "react-native.config.js",

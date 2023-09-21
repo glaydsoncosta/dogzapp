@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render BreedListItem component 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "paddingVertical": 20,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "width": "10%",
+      }
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "overflow": "hidden",
+          },
+          {
+            "height": 32,
+            "width": 32,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        defaultSource={null}
+        resizeMode="contain"
+        source={
+          {
+            "testUri": "../../../src/assets/icons/pawprint.png",
+          }
+        }
+        style={
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+        tintColor="#673AB7"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "fontSize": 18,
+          "fontWeight": "400",
+          "marginLeft": 10,
+        }
+      }
+    >
+      Test
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "flex-end",
+        "justifyContent": "center",
+        "width": "10%",
+      }
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "overflow": "hidden",
+          },
+          {
+            "height": 18,
+            "width": 18,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        defaultSource={null}
+        resizeMode="contain"
+        source={
+          {
+            "testUri": "../../../src/assets/icons/chevron.png",
+          }
+        }
+        style={
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+        tintColor="#424242"
+      />
+    </View>
+  </View>
+</View>
+`;
